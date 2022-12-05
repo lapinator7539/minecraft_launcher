@@ -60,9 +60,9 @@ def install_forge():
     if not os.path.exists("launcher/minecraft/libraries/net/minecraftforge/1.7.10-forge/1.7.10-10.13.4.1614/"):
         os.makedirs("launcher/minecraft/libraries/net/minecraftforge/1.7.10-forge/1.7.10-10.13.4.1614/")
         shutil.copy("launcher/minecraft/forge.jar", "launcher/minecraft/libraries/net/minecraftforge/1.7.10-forge/1.7.10-10.13.4.1614/forge-1.7.10-10.13.4.1614.jar")
-    if not os.path.exists("laucnher/minecraft/libraries/net/minecraft/launchwrapper/1.12.2"):
-        os.makedirs("laucnher/minecraft/libraries/net/minecraft/launchwrapper/1.12.2")
-        wget.download(launch_wrapper, "laucnher/minecraft/libraries/net/minecraft/launchwrapper/1.12.2")
+    if not os.path.exists("launcher/minecraft/libraries/net/minecraft/launchwrapper/1.12.2"):
+        os.makedirs("launcher/minecraft/libraries/net/minecraft/launchwrapper/1.12.2")
+        wget.download(launch_wrapper, "launcher/minecraft/libraries/net/minecraft/launchwrapper/1.12.2")
 
         
 
