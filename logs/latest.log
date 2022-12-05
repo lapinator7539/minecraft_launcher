@@ -1,0 +1,9 @@
+[01:52:44] [main/INFO]: Setting user: Player748
+[01:52:44] [main/INFO]: (Session ID is token::684f70e0-2f40-4b3a-b114-bb7130686849)
+[01:52:45] [Client thread/INFO]: LWJGL Version: 2.9.1
+[01:52:45] [Client thread/ERROR]: Couldn't initialize twitch stream
+[01:52:45] [Client thread/INFO]: Reloading ResourceManager: Default
+[01:52:46] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[01:52:46] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[01:52:46] [Sound Library Loader/INFO]: Sound engine started
+[01:52:53] [Client thread/INFO]: Stopping!
